@@ -1,0 +1,806 @@
+
+
+AI Governance and Model Risk Policy
+Document Type: Compliance Policy
+Total Pages: 20
+
+
+==========================================================================================
+
+Page 1 of 20
+Section: AI system inventory
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, AI system inventory,
+Model development documentation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that ai system inventory was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 2 of 20
+Section: Model development documentation
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Model development documentation,
+Training data lineage, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that model development documentation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 3 of 20
+Section: Training data lineage
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Training data lineage,
+Bias and fairness assessment, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that training data lineage was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 4 of 20
+Section: Bias and fairness assessment
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Bias and fairness assessment,
+Human oversight controls, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that bias and fairness assessment was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 5 of 20
+Section: Human oversight controls
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Human oversight controls,
+Prompt and output monitoring, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that human oversight controls was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 6 of 20
+Section: Prompt and output monitoring
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Prompt and output monitoring,
+Model change approval, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that prompt and output monitoring was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 7 of 20
+Section: Model change approval
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Model change approval,
+Third-party AI service review, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that model change approval was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 8 of 20
+Section: Third-party AI service review
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Third-party AI service review,
+Incident and misuse reporting, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that third-party ai service review was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 9 of 20
+Section: Incident and misuse reporting
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Incident and misuse reporting,
+Retirement and archival procedure, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that incident and misuse reporting was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 10 of 20
+Section: Retirement and archival procedure
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Retirement and archival procedure,
+AI system inventory, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that retirement and archival procedure was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 11 of 20
+Section: AI system inventory
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, AI system inventory,
+Model development documentation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that ai system inventory was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 12 of 20
+Section: Model development documentation
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Model development documentation,
+Training data lineage, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that model development documentation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 13 of 20
+Section: Training data lineage
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Training data lineage,
+Bias and fairness assessment, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that training data lineage was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 14 of 20
+Section: Bias and fairness assessment
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Bias and fairness assessment,
+Human oversight controls, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that bias and fairness assessment was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 15 of 20
+Section: Human oversight controls
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Human oversight controls,
+Prompt and output monitoring, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that human oversight controls was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 16 of 20
+Section: Prompt and output monitoring
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Prompt and output monitoring,
+Model change approval, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that prompt and output monitoring was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 17 of 20
+Section: Model change approval
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Model change approval,
+Third-party AI service review, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that model change approval was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 18 of 20
+Section: Third-party AI service review
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Third-party AI service review,
+Incident and misuse reporting, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that third-party ai service review was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 19 of 20
+Section: Incident and misuse reporting
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Incident and misuse reporting,
+Retirement and archival procedure, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that incident and misuse reporting was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 20 of 20
+Section: Retirement and archival procedure
+
+Purpose:
+This page defines mandatory controls for ai governance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Retirement and archival procedure,
+AI system inventory, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that retirement and archival procedure was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.

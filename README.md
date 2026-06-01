@@ -1,0 +1,145 @@
+# AI RAG DocSearch Knowledge Engine
+
+AI RAG DocSearch Knowledge Engine is the second phase of the document search project. The first repository built the traditional Lucene foundation with batch indexing, streaming updates, physical shards, checkpointing, and BM25 search. This repository starts the AI layer: semantic chunking, local embeddings, hybrid retrieval, citation grounded answer generation, and knowledge graph extraction.
+
+The first version is intentionally runnable without external model APIs. It uses deterministic local hash embeddings so the architecture, tests, and demo work on any machine. The model interfaces are designed so a production embedding model, GPU backed transformer, reranker, or managed LLM can replace the local implementation later.
+
+## 1. Research Goal
+
+The central question is:
+
+How can a classical document search system be extended into a document intelligence platform that retrieves evidence, builds citations, extracts relationships, and prepares for retrieval augmented generation?
+
+This repository separates AI retrieval from the Lucene infrastructure repo so each system has a clear responsibility.
+
+## 2. Current Capabilities
+
+| Capability | Implementation |
+| :-- | :-- |
+| Document loading | Local text document loader |
+| Semantic chunking | Page aware and overlap aware chunker |
+| Embeddings | Deterministic local hash embedding model |
+| Lexical retrieval | BM25 style scoring over chunks |
+| Vector retrieval | Cosine similarity over local embeddings |
+| Hybrid retrieval | Weighted lexical and vector score fusion |
+| RAG answer | Evidence based answer builder with citations |
+| Knowledge graph | Rule based entity and relationship extraction |
+| Demo corpus | Compliance documents copied from the Lucene project |
+| Tests | Standard library unittest pipeline coverage |
+
+## 3. Architecture
+
+```text
+Documents
+        |
+        v
+Semantic Chunker
+        |
+        v
+Chunk Index
+        |
+        +-------------------+
+        |                   |
+        v                   v
+BM25 Scoring          Local Embeddings
+        |                   |
+        +---------+---------+
+                  |
+                  v
+           Hybrid Retrieval
+                  |
+                  v
+        Citation Answer Builder
+                  |
+                  v
+          RAG Style Response
+```
+
+The knowledge graph path runs beside retrieval:
+
+```text
+Chunks
+   |
+   v
+Entity Extraction
+   |
+   v
+Relationship Extraction
+   |
+   v
+Knowledge Graph Triples
+```
+
+## 4. Run the Demo
+
+```bash
+cd /Users/srimathiravisankar/ai-rag-docsearch-knowledge-engine
+chmod +x scripts/demo.sh
+./scripts/demo.sh
+```
+
+The demo indexes the compliance corpus, retrieves evidence for a compliance question, returns citations, and prints sample knowledge graph triples.
+
+## 5. Run Tests
+
+```bash
+cd /Users/srimathiravisankar/ai-rag-docsearch-knowledge-engine
+PYTHONPATH=src python3 -m unittest discover -s tests
+```
+
+## 6. Core Modules
+
+| Path | Role |
+| :-- | :-- |
+| `SemanticChunker` | Splits documents into page aware overlapping chunks |
+| `LocalHashEmbeddingModel` | Provides deterministic local vectors for reproducible demos |
+| `HybridRetriever` | Combines BM25 style scoring with vector similarity |
+| `KnowledgeGraphExtractor` | Extracts entity relationship triples from chunks |
+| `CitationAnswerBuilder` | Builds answer payloads with chunk level citations |
+| `DocumentIntelligencePipeline` | Orchestrates loading, chunking, indexing, graph extraction, retrieval, and answer generation |
+
+## 7. GPU Roadmap
+
+GPU acceleration belongs in the model inference path, not in the classical Lucene inverted index. This repository is the correct place to add it.
+
+GPU suitable additions:
+
+| Component | GPU Value |
+| :-- | :-- |
+| Embedding generation | Transformer inference can be batched across chunks |
+| OCR for scanned PDFs | Vision text recognition benefits from parallel computation |
+| Cross encoder reranking | Query chunk pairs can be scored in batches |
+| Entity extraction | Token classification can run on GPU |
+| Summarization | Long document summarization uses transformer decoding |
+
+The future production path should replace `LocalHashEmbeddingModel` with one of the following:
+
+1. A local sentence transformer running on GPU
+2. Amazon Bedrock embeddings
+3. OpenAI embeddings
+4. A managed vector search and reranking service
+
+## 8. Relationship To The Lucene Repository
+
+The Lucene repository answers:
+
+```text
+How do we index and search documents at scale using traditional IR?
+```
+
+This repository answers:
+
+```text
+How do we understand, retrieve, cite, and reason over those documents?
+```
+
+Together they form a complete document intelligence platform:
+
+```text
+Lucene Search Infrastructure
+        +
+AI RAG Knowledge Engine
+        =
+Scalable Enterprise Document Intelligence
+```
+

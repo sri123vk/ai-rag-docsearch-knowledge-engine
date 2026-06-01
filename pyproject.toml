@@ -1,0 +1,12 @@
+[project]
+name = "ai-rag-docsearch-knowledge-engine"
+version = "0.1.0"
+description = "AI document retrieval engine with chunking, embeddings, hybrid search, RAG citations, and knowledge graph extraction."
+requires-python = ">=3.9"
+authors = [
+  { name = "Srimathi Ravisankar" }
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

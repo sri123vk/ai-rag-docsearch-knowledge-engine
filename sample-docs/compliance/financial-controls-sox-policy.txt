@@ -1,0 +1,806 @@
+
+
+Financial Controls and SOX Compliance Policy
+Document Type: Compliance Policy
+Total Pages: 20
+
+
+==========================================================================================
+
+Page 1 of 20
+Section: Revenue recognition control ownership
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Revenue recognition control ownership,
+Segregation of duties, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that revenue recognition control ownership was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 2 of 20
+Section: Segregation of duties
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Segregation of duties,
+Quarter-end close certification, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that segregation of duties was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 3 of 20
+Section: Quarter-end close certification
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Quarter-end close certification,
+Journal entry approval workflow, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that quarter-end close certification was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 4 of 20
+Section: Journal entry approval workflow
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Journal entry approval workflow,
+Vendor payment exception handling, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that journal entry approval workflow was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 5 of 20
+Section: Vendor payment exception handling
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Vendor payment exception handling,
+Access control over financial systems, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that vendor payment exception handling was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 6 of 20
+Section: Access control over financial systems
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Access control over financial systems,
+Change management for reporting logic, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that access control over financial systems was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 7 of 20
+Section: Change management for reporting logic
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Change management for reporting logic,
+Evidence retention for auditors, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that change management for reporting logic was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 8 of 20
+Section: Evidence retention for auditors
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Evidence retention for auditors,
+Material weakness escalation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that evidence retention for auditors was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 9 of 20
+Section: Material weakness escalation
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Material weakness escalation,
+Control testing and remediation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that material weakness escalation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 10 of 20
+Section: Control testing and remediation
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Control testing and remediation,
+Revenue recognition control ownership, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that control testing and remediation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 11 of 20
+Section: Revenue recognition control ownership
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Revenue recognition control ownership,
+Segregation of duties, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that revenue recognition control ownership was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 12 of 20
+Section: Segregation of duties
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Segregation of duties,
+Quarter-end close certification, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that segregation of duties was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 13 of 20
+Section: Quarter-end close certification
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Quarter-end close certification,
+Journal entry approval workflow, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that quarter-end close certification was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 14 of 20
+Section: Journal entry approval workflow
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Journal entry approval workflow,
+Vendor payment exception handling, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that journal entry approval workflow was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 15 of 20
+Section: Vendor payment exception handling
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Vendor payment exception handling,
+Access control over financial systems, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that vendor payment exception handling was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 16 of 20
+Section: Access control over financial systems
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Access control over financial systems,
+Change management for reporting logic, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that access control over financial systems was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 17 of 20
+Section: Change management for reporting logic
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Change management for reporting logic,
+Evidence retention for auditors, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that change management for reporting logic was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 18 of 20
+Section: Evidence retention for auditors
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Evidence retention for auditors,
+Material weakness escalation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that evidence retention for auditors was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 19 of 20
+Section: Material weakness escalation
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Material weakness escalation,
+Control testing and remediation, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that material weakness escalation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
+
+==========================================================================================
+
+Page 20 of 20
+Section: Control testing and remediation
+
+Purpose:
+This page defines mandatory controls for finance compliance. The control owner must maintain
+current evidence, verify that responsibilities are assigned, and confirm that exceptions are reviewed before
+the reporting period closes.
+
+Policy Requirements:
+1. The accountable team must document the business process, systems involved, data categories, and approval
+   path for this control area.
+2. Evidence must include timestamps, approver identity, control result, remediation status, and a link to the
+   source record. Screenshots alone are insufficient unless supported by system-generated reports.
+3. Exceptions must be classified as low, medium, high, or critical based on customer impact, regulatory impact,
+   financial reporting impact, and operational resilience impact.
+4. Critical exceptions require executive acknowledgement and a remediation plan with target dates, interim
+   compensating controls, and validation criteria.
+
+Operating Procedure:
+The control performer reviews the population, selects the required sample, validates each item against the
+policy criteria, and records pass or fail status. A reviewer independent from the performer approves the result.
+When testing fails, the issue owner opens a remediation ticket and links it to the compliance evidence package.
+
+Search Keywords:
+compliance, audit evidence, remediation, risk rating, exception management, approval workflow, Control testing and remediation,
+Revenue recognition control ownership, control owner, policy requirement, regulatory obligation, monitoring, certification.
+
+Example Scenario:
+During a quarterly compliance review, an auditor requests proof that control testing and remediation was performed for all
+in-scope applications. The compliance analyst exports the system record, verifies that each approval was
+completed on time, and attaches the evidence to the audit workspace. One missing approval is classified as a
+medium-risk exception because the control was completed late but before external reporting.
+
+AI/NLP Notes:
+This page should be useful for entity extraction, keyphrase extraction, document classification, risk labeling,
+compliance question answering, and citation-grounded retrieval. Relevant entities include control owner,
+auditor, reviewer, exception, remediation ticket, policy, system record, and executive acknowledgement.
