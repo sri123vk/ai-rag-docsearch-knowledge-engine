@@ -25,6 +25,9 @@ class PipelineTest(unittest.TestCase):
 
             self.assertEqual(summary["documents"], 1)
             self.assertGreaterEqual(summary["chunks"], 1)
+            self.assertEqual(summary["enriched_chunks"], summary["chunks"])
+            self.assertGreaterEqual(summary["entities"], 1)
+            self.assertGreaterEqual(summary["relations"], 1)
             self.assertGreaterEqual(summary["knowledge_graph_triples"], 1)
             self.assertTrue(answer["citations"])
             self.assertIn("remediation", answer["answer"].lower())
@@ -32,4 +35,3 @@ class PipelineTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

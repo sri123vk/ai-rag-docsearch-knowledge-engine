@@ -3,7 +3,7 @@ from __future__ import annotations
 import re
 from collections import defaultdict
 
-from aidoc.models import Chunk, EntityTriple
+from aidoc.models import Chunk, ChunkEnrichment, EntityTriple
 
 
 ENTITY_PATTERN = re.compile(
@@ -50,3 +50,48 @@ class KnowledgeGraphExtractor:
         found = {match.group(0).lower() for match in ENTITY_PATTERN.finditer(text)}
         return sorted(found)
 
+
+class EnrichedKnowledgeGraphExtractor:
+    def extract(self, enrichments: list[ChunkEnrichment]) -> list[EntityTriple]:
+        triples: list[EntityTriple] = []
+        for enrichment in enrichments:
+            chunk = enrichment.chunk
+            for entity in enrichment.entities:
+                triples.append(
+                    EntityTriple(
+                        subject=chunk.title,
+                        relation="mentions",
+                        object=f"{entity.label}:{entity.text}",
+                        chunk_id=chunk.chunk_id,
+                        source_uri=chunk.source_uri,
+                    )
+                )
+            for relation in enrichment.relations:
+                triples.append(
+                    EntityTriple(
+                        subject=relation.subject,
+                        relation=relation.relation,
+                        object=relation.object,
+                        chunk_id=chunk.chunk_id,
+                        source_uri=chunk.source_uri,
+                    )
+                )
+            triples.append(
+                EntityTriple(
+                    subject=chunk.title,
+                    relation="classified_as",
+                    object=enrichment.document_label.label,
+                    chunk_id=chunk.chunk_id,
+                    source_uri=chunk.source_uri,
+                )
+            )
+            triples.append(
+                EntityTriple(
+                    subject=chunk.title,
+                    relation="has_risk",
+                    object=enrichment.risk_label.label,
+                    chunk_id=chunk.chunk_id,
+                    source_uri=chunk.source_uri,
+                )
+            )
+        return triples

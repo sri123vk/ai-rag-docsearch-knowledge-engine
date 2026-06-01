@@ -24,6 +24,53 @@ class Chunk:
 
 
 @dataclass(frozen=True)
+class Entity:
+    text: str
+    label: str
+    confidence: float
+
+
+@dataclass(frozen=True)
+class Keyphrase:
+    text: str
+    score: float
+
+
+@dataclass(frozen=True)
+class DocumentLabel:
+    label: str
+    confidence: float
+    rationale: str
+
+
+@dataclass(frozen=True)
+class RiskLabel:
+    label: str
+    severity: str
+    confidence: float
+    rationale: str
+
+
+@dataclass(frozen=True)
+class Relation:
+    subject: str
+    relation: str
+    object: str
+    confidence: float
+
+
+@dataclass(frozen=True)
+class ChunkEnrichment:
+    chunk: Chunk
+    entities: list[Entity]
+    keyphrases: list[Keyphrase]
+    document_label: DocumentLabel
+    risk_label: RiskLabel
+    relations: list[Relation]
+    summary: str
+
+
+@dataclass(frozen=True)
 class RetrievedChunk:
     chunk: Chunk
     lexical_score: float
@@ -38,4 +85,3 @@ class EntityTriple:
     object: str
     chunk_id: str
     source_uri: str
-

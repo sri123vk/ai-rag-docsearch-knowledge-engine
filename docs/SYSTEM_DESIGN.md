@@ -10,6 +10,8 @@ This repository is the AI intelligence layer. It assumes raw text is available f
 | :-- | :-- |
 | Loader | Reads source documents |
 | Chunker | Preserves page level context and creates retrievable units |
+| Foundation model provider | Abstracts embeddings, summarization, classification, keyphrases, and risk labeling |
+| NLP enrichment pipeline | Extracts entities, keyphrases, document labels, risk labels, summaries, and relations |
 | Embedding model | Converts chunk text into vectors |
 | Hybrid retriever | Combines lexical and semantic evidence |
 | Knowledge graph extractor | Converts unstructured text into relationship triples |
@@ -18,12 +20,27 @@ This repository is the AI intelligence layer. It assumes raw text is available f
 ## Production Upgrade Path
 
 1. Replace local text loading with S3 or Lucene metadata integration
-2. Replace hash embeddings with transformer embeddings
-3. Add a persistent vector index
-4. Add reranking
-5. Add LLM answer generation
-6. Store knowledge graph triples in Neo4j or Amazon Neptune
-7. Add evaluation metrics for retrieval quality and citation faithfulness
+2. Replace local foundation model provider with transformer backends
+3. Add GPU embedding and reranking workers
+4. Add a persistent vector index
+5. Add cross encoder reranking
+6. Add LLM answer generation
+7. Store knowledge graph triples in Neo4j or Amazon Neptune
+8. Add evaluation metrics for retrieval quality and citation faithfulness
+
+## NLP And Foundation Model Tasks
+
+The current code models the following foundation model tasks through local deterministic implementations:
+
+| Task | Current Implementation | Production Upgrade |
+| :-- | :-- | :-- |
+| Embeddings | Hash based dense vectors | Sentence transformer, OpenAI, or Bedrock |
+| Summarization | Extractive sentence summary | Instruction tuned LLM |
+| Classification | Domain keyword classifier | Fine tuned transformer classifier |
+| Risk labeling | Pattern based severity labeling | Compliance risk model |
+| Keyphrases | Frequency based extraction | Sequence to sequence or embedding based extraction |
+| NER | Domain pattern extractor | Transformer token classifier |
+| Relation extraction | Rule based relations | LLM or supervised relation extractor |
 
 ## GPU Plan
 
@@ -36,4 +53,3 @@ document pages -> GPU OCR worker -> extracted text
 ```
 
 This lets the CPU based indexing and metadata layer scale independently from model inference workloads.
-

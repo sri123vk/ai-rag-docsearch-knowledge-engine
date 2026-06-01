@@ -1,6 +1,6 @@
 # AI RAG DocSearch Knowledge Engine
 
-AI RAG DocSearch Knowledge Engine is the second phase of the document search project. The first repository built the traditional Lucene foundation with batch indexing, streaming updates, physical shards, checkpointing, and BM25 search. This repository starts the AI layer: semantic chunking, local embeddings, hybrid retrieval, citation grounded answer generation, and knowledge graph extraction.
+AI RAG DocSearch Knowledge Engine is the second phase of the document search project. The first repository built the traditional Lucene foundation with batch indexing, streaming updates, physical shards, checkpointing, and BM25 search. This repository focuses on foundation models and NLP: semantic chunking, embeddings, hybrid retrieval, entity extraction, keyphrase extraction, document classification, risk labeling, relation extraction, summarization, citation grounded answer generation, and knowledge graph construction.
 
 The first version is intentionally runnable without external model APIs. It uses deterministic local hash embeddings so the architecture, tests, and demo work on any machine. The model interfaces are designed so a production embedding model, GPU backed transformer, reranker, or managed LLM can replace the local implementation later.
 
@@ -19,6 +19,13 @@ This repository separates AI retrieval from the Lucene infrastructure repo so ea
 | Document loading | Local text document loader |
 | Semantic chunking | Page aware and overlap aware chunker |
 | Embeddings | Deterministic local hash embedding model |
+| Foundation model abstraction | Swappable provider for embeddings, summarization, classification, and risk labeling |
+| Entity extraction | Rule based NER for compliance roles, controls, risks, artifacts, and AI governance terms |
+| Keyphrase extraction | Frequency based local keyphrase extraction |
+| Document classification | Local classifier for privacy, financial controls, security, vendor risk, and AI governance |
+| Risk labeling | Severity labels for low, medium, high, and critical compliance risk |
+| Relation extraction | Extracted relationships such as exception requires remediation |
+| Summarization | Local extractive summary fallback |
 | Lexical retrieval | BM25 style scoring over chunks |
 | Vector retrieval | Cosine similarity over local embeddings |
 | Hybrid retrieval | Weighted lexical and vector score fusion |
@@ -36,7 +43,13 @@ Documents
 Semantic Chunker
         |
         v
-Chunk Index
+NLP Enrichment
+        |
+        v
+Entities, Keyphrases, Labels, Risks, Relations, Summaries
+        |
+        v
+Foundation Model Interface
         |
         +-------------------+
         |                   |
@@ -92,6 +105,11 @@ PYTHONPATH=src python3 -m unittest discover -s tests
 | Path | Role |
 | :-- | :-- |
 | `SemanticChunker` | Splits documents into page aware overlapping chunks |
+| `FoundationModelProvider` | Defines model backed embedding, classification, keyphrase, summary, and risk APIs |
+| `LocalFoundationModelProvider` | Deterministic local fallback for tests and demos |
+| `NLPEnrichmentPipeline` | Runs entity extraction, keyphrase extraction, classification, risk labeling, relation extraction, and summarization |
+| `EntityExtractor` | Extracts compliance and AI governance entities |
+| `RelationExtractor` | Extracts domain relationships from enriched chunks |
 | `LocalHashEmbeddingModel` | Provides deterministic local vectors for reproducible demos |
 | `HybridRetriever` | Combines BM25 style scoring with vector similarity |
 | `KnowledgeGraphExtractor` | Extracts entity relationship triples from chunks |
@@ -119,7 +137,40 @@ The future production path should replace `LocalHashEmbeddingModel` with one of 
 3. OpenAI embeddings
 4. A managed vector search and reranking service
 
-## 8. Relationship To The Lucene Repository
+## 8. Foundation Model Roadmap
+
+The local provider is intentionally deterministic. A 2026 production version should add provider implementations for:
+
+| Provider | Use |
+| :-- | :-- |
+| Hugging Face sentence transformers | Local embedding generation and reranking |
+| OpenAI embeddings and responses | Managed embeddings, summarization, and grounded answer generation |
+| Amazon Bedrock | Enterprise managed embeddings and LLM inference |
+| vLLM or Ollama | GPU backed local LLM serving |
+| Cross encoder reranker | More accurate evidence ordering after retrieval |
+
+The recommended model pipeline is:
+
+```text
+chunks
+   |
+   v
+embedding model
+   |
+   v
+vector retrieval
+   |
+   v
+cross encoder reranker
+   |
+   v
+grounded answer model
+   |
+   v
+verifier requiring citations
+```
+
+## 9. Relationship To The Lucene Repository
 
 The Lucene repository answers:
 
@@ -142,4 +193,3 @@ AI RAG Knowledge Engine
         =
 Scalable Enterprise Document Intelligence
 ```
-
